@@ -16,7 +16,9 @@
  ## What I want to be my stack
  [![Skills](https://skillicons.dev/icons?i=kotlin,ktor,mysql,git,docker)](https://skillicons.dev)
 
+<!--
 # Times my profile has been visited
 
  ![Image](https://count.getloli.com/@MiauDona?name=MiauDona&theme=booru-lewd&padding=7&offset=0&align=top&scale=1.6&pixelated=1&darkmode=auto&prefix=0) 
  <a href="https://github.com/anuraghazra/github-readme-stats"></a> 
+-->
